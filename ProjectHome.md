@@ -1,0 +1,1 @@
+Demo application to get used with smack api
